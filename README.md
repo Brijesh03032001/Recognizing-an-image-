@@ -1,7 +1,7 @@
 # Recognizing an image
 Humans take no effort to distinguish a dog, cat, or flying saucer. But this process is quite difficult for a computer to emulate: 
 it only looks easy because God designs our brains incredibly well to recognize images. One common example of image recognition 
-with machine learning is optical character recognition. In this , I am building an Image Recognition model with Machine Learning using PyTorch.
+with machine learning is optical character recognition. In this project , I am building an Image Recognition model with Machine Learning using PyTorch.
 
 For the image recognition task,  the TorchVision package is used which contains some of the best performing neural network architectures for computer vision, such as AlexNet.
 It also provides easy access to datasets like ImageNet and other utilities to learn about computer vision applications in PyTorch.
